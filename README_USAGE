@@ -1,0 +1,2 @@
+./sniffex --intf eth0 --filter "udp"
+./sniffex --intf eth0 --filter "udp port 49159"
